@@ -134,7 +134,7 @@ const StoreFeatures = () => {
                   Free Pickup in store
                 </h4>
                 <div style={{ fontSize: "0.9rem" }}>
-                  Save time and mOne1y when you buy online and pick up in store.
+                  Save time and money when you buy online and pick up in store.
                 </div>
               </div>
             </div>
