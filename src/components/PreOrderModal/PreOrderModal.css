@@ -1,0 +1,37 @@
+.text-input {
+  direction: rtl;
+  text-align: right;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+}
+
+.body-container {
+  text-align: center;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+}
+
+.modal-input {
+  direction: rtl;
+  text-align: right;
+  width: 300px;
+  margin-bottom: 2px;
+}
+
+.err-msg {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+.modal-buttons {
+  direction: rtl;
+}

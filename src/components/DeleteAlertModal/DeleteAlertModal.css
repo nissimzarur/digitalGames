@@ -1,0 +1,6 @@
+.delete-modal-title {
+  display: flex;
+  direction: rtl;
+  justify-content: center;
+  flex-flow: column;
+}

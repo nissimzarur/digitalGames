@@ -1,0 +1,27 @@
+.order-input {
+  direction: rtl;
+  text-align: right;
+  margin: 10px;
+  width: 200px;
+}
+
+.modal-inputs {
+  direction: rtl;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  flex-direction: column;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form-select {
+  direction: rtl;
+  text-align: center;
+  width: 300px;
+  margin-bottom: 10px;
+}

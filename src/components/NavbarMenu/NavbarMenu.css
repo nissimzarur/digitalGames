@@ -1,0 +1,19 @@
+.nav-ltr {
+  direction: ltr;
+}
+
+.nav-orders {
+  background-color: #c0c3c3;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#basic-navbar-nav {
+  text-align: center;
+}
+
+.brand-logo {
+  cursor: pointer;
+  color: white;
+  font-size: 9px;
+}

@@ -1,0 +1,11 @@
+.about-page-section-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 20px;
+  color: orange;
+}
+.about-page-section-body {
+  font-size: 15px;
+  margin-left: 40px;
+  margin-right: 40px;
+}

@@ -1,0 +1,44 @@
+.cart-table {
+  margin: 5%;
+}
+
+.cart-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: x-large;
+  margin-bottom: 10px;
+}
+
+th {
+  direction: ltr;
+}
+
+tr {
+  direction: ltr;
+}
+
+.no-products-title {
+  text-align: center;
+  direction: ltr;
+  font-weight: bold;
+  color: brown;
+  margin: 30px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.total-price-row {
+  background-color: rgb(129, 180, 135);
+  font-weight: bold;
+  color: black;
+}
+
+.order-btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.cart-order-btn {
+  width: 150px;
+  background-color: rgb(129, 180, 135);
+}
